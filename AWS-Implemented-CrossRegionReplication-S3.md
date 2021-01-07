@@ -58,7 +58,10 @@ Quan trọng: Để hoàng thành bài lab này, bạn CÓ THỂ sẽ phải tr�
 *Bạn có thể download file **s3_bucket.yaml** trong folder đính kèm*
 ###### Triển khai vùng đầu tiên 
 Thì tuỳ theo nơi bạn ở, của mình sẽ là Sydney AWS AP-South East 2
-* Sử dụng drop-down menu để chọn vùng AWS thích hợp 
+* Sử dụng drop-down menu để chọn vùng AWS thích hợp
+
+
+![](images/ChoosingRegion.jpg)
 * Tìm dịch vụ CloudFormation(CF) trong AWS console
 ![](images/Search_CloudFormationService.jpg)
 * Tìm dịch vụ S3 trong AWS Console và vào S3 để check xem khi chưa làm gì thì không có bất cứ bucket/object nào trong đó
@@ -80,6 +83,8 @@ Thì tuỳ theo nơi bạn ở, của mình sẽ là Sydney AWS AP-South East 2
 ![](images/CF_Error_name.jpg)
 * Sẽ mất 1 lúc để CF làm việc.
 * Trong lúc này, bạn vào drop-down menu góc trái bên trên để chọn 1 region khác thích hợp. Mình chọn là Seoul => AWS AP-NorthEast2
+
+
 ![](images/Switching_Region_Seoul.jpg)
 * LÀM LẠI TỪ BƯỚC VÀO CF CONSOLE VÀ TẠO STACK MỚI CHO  **REGION VỪA MỚI ĐỔI**
 * CHÚ Ý LÀ: NAMINGPREFIX Ở REGION 2 (MỚI ĐỔI QUA) PHẢI GIỐNG LÚC ĐÃ TẠO Ở REGION 1 => Lý do ở trên nhắc các bạn copy NamingPrefix
