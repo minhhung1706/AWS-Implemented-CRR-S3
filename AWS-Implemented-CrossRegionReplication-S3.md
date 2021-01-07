@@ -57,9 +57,8 @@ Quan trọng: Để hoàng thành bài lab này, bạn CÓ THỂ sẽ phải tr�
 ##### 1.2 Triển khai cơ sở hạ tầng vào 2 AWS Regions bằng cách sử dụng AWS CloudFormation (CF) template 
 *Bạn có thể download file **s3_bucket.yaml** trong folder đính kèm*
 ###### Triển khai vùng đầu tiên 
-Thì tuỳ theo nơi bạn ở, của mình sẽ là Sydney => AWS AP-South East 2
+Thì tuỳ theo nơi bạn ở, của mình sẽ là Sydney AWS AP-South East 2
 * Sử dụng drop-down menu để chọn vùng AWS thích hợp 
-![](images/ChoosingRegion.jpg)
 * Tìm dịch vụ CloudFormation(CF) trong AWS console
 ![](images/Search_CloudFormationService.jpg)
 * Tìm dịch vụ S3 trong AWS Console và vào S3 để check xem khi chưa làm gì thì không có bất cứ bucket/object nào trong đó
