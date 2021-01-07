@@ -123,7 +123,7 @@ Thì tuỳ theo nơi bạn ở, của mình sẽ là Sydney => AWS AP-South East
 * Khi 1 file **REPLICATE** thành công thì check properties sẽ thấy là **REPLICA**
 ![](images/Check_ReplicaStatus_REPLICA.jpg)
 ---
-**SAU KHI HOÀNG THÀNH LAB, NHỚ XOÁ HẾT TẤT CẢ NHỮNG GÌ ĐÃ LÀM ĐỂ TRÁNH VIỆC CHI TRẢ PHÍ AWS KHÔNG MONG MUỐN**
+**SAU KHI HOÀNG THÀNH LAB, NHỚ XOÁ HẾT TẤT CẢ NHỮNG GÌ ĐÃ LÀM ĐỂ TRÁNH VIỆC CHI TRẢ PHÍ AWS KHÔNG MONG MUỐN.**
 
 
 
